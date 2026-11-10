@@ -1,6 +1,6 @@
 cask "diskly" do
   version "0.8.0"
-  sha256 "eb249201463149f276c75b1e5ad4be98f4e5cc11c97f0c9885e17101723cad53"
+  sha256 "af75901b7672818c165edf002d2366a0745bc48ffc4dc5c85c4e150048ce4659"
 
   url "https://diskly.net/download/releases/Diskly-#{version}.dmg"
   name "Diskly"
